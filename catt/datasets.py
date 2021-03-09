@@ -58,7 +58,7 @@ def _fetch_saccade_fixation(data_dir, verbose=1):
 
 
 def fetch_saccade_cardiac(data_dir, verbose=1):
-        """
+    """
     This function helps in downloading and unzipping data used in Galvez-Pol et. al 2020
     from Open Science Framework (OSF).
     https://osf.io/ye3rg/
