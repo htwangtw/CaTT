@@ -69,4 +69,4 @@ def fetch_saccade_cardiac(data_dir, verbose=1):
     Galvez-Pol A, McConnell R, Kilner JM. Active sampling in visual search is coupled to the cardiac cycle. Cognition. 2020 Mar;196:104149. doi: 10.1016/j.cognition.2019.104149.
     """
 
-    return dataset
+    return data
