@@ -2,12 +2,12 @@ name: test and coverage
 
 on:
   push:
-    branches: [ 'python-ver' ]
+    branches: [ dev ]
     paths:
     - '**.py'
 
   pull_request:
-    branches: [ 'python-ver' ]
+    branches: [ main, dev ]
 
   workflow_dispatch:
 
